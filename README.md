@@ -37,3 +37,12 @@ I do my best at stuffs
 - Korean: native "_annyeong haseyo_"
 - English: Pretty comfortable, Professional level
 - Pig latin: "_Iay pokesay tiay aay otlay eforebay_"
+
+Regarding English:
+- Did some volumtary translation of comics as a hobby
+- Worked as an augmentee for EN/KOR Translation in ROK-US Military Joint training
+
+### Some links
+- [My (unfinished) self-hosted personal website](yeongmin.net)
+- [Coursera Learner's profile](https://coursera.org/learner/yeongmin-jo)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/09e2a715-ad62-4146-bfb8-b98033aaa091)
